@@ -35,6 +35,13 @@ plugins:
 
 paginate: 5
 
+social_links:
+    - url: https://www.youtube.com/channel/UCwnUr0cB24YKbafp2wwQK2w
+      icon: youtube
+      color: indian-red
+    - url: https://github.com/bitbrain
+      icon: github-square
+      color: violet
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
