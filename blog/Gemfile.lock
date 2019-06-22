@@ -39,10 +39,14 @@ GEM
       sass (~> 3.4)
     jekyll-seo-tag (2.6.1)
       jekyll (>= 3.3, < 5.0)
+    jekyll-tagging (1.1.0)
+      nuggets
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (1.17.0)
     liquid (4.0.3)
+    liquid-md5 (0.0.3)
+      liquid (>= 2.5, < 5.0)
     listen (3.1.5)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
@@ -52,6 +56,7 @@ GEM
       jekyll (~> 3.5)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
+    nuggets (1.6.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.1.0)
@@ -74,6 +79,8 @@ DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-dash
   jekyll-feed (~> 0.6)
+  jekyll-tagging
+  liquid-md5
   minima (~> 2.0)
   tzinfo-data
 
