@@ -79,6 +79,8 @@ DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-dash
   jekyll-feed (~> 0.6)
+  jekyll-paginate
+  jekyll-seo-tag
   jekyll-tagging
   liquid-md5
   minima (~> 2.0)
