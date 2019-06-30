@@ -17,7 +17,7 @@ title: Zanark's Blog
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   I am a noob programmer who likes to automate stuff.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Blog/" # the subpath of your site, e.g. /blog
 url: "https://zanark.github.io/Blog/" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  Zanark
