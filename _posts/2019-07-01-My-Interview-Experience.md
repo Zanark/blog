@@ -138,11 +138,11 @@ I was basically asked questions about my projects and what I can do with them an
 
 ## The Results
 
-I was pretty confident and satisfied about how ny third round went. I was even ready to accept rejection because this interview experience taught me a lot about how interviews go and what interviewers look for in a candidate.
+I was pretty confident and satisfied about how my third round went. I was even ready to accept rejection because this interview experience taught me a lot about how interviews go and what interviewers look for in a candidate.
 
 I calmed myself down and waited for my results.
 
-Just kidding, I wasnt able to calm myself down. I couldn't sit down in a place because when I did my stomach started felling funny because of all that nervousness.
+Just kidding, I wasnt able to calm myself down. I couldn't sit down in a place because when I did my stomach started feelling funny because of all that nervousness.
 
 After an hour of struggle to calm myself down, the panel members entered the room with the list of selected students, and yes, I got selected.
 
