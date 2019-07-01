@@ -20,12 +20,12 @@ Now let's just skip to the meat(paneer if you are a vegetarian), the exam.
 
 The Exam was held on [mettl](https://mettl.com/), and it had 4 sections.
 
-| **Section** | **Alloted Time** |
-| :------ | :---------- |
-| Section 1 : Analytical and Quantitative -- 20 Questions | 20 Minutes |
-| Section 2 : Hands on Programming -- 2 Questions | 25 Minutes |
-| Section 3 : Tech MCQ -- 20 Questions | 20 Minutes |
-| Section 4 : Written English Test : 1 Question | 20 Minutes |
+| **Section** | | **Alloted Time** |
+| :------ |:----: | :---------- |
+| Section 1 : Analytical and Quantitative -- 20 Questions | | 20 Minutes |
+| Section 2 : Hands on Programming -- 2 Questions | | 25 Minutes |
+| Section 3 : Tech MCQ -- 20 Questions | | 20 Minutes |
+| Section 4 : Written English Test : 1 Question | | 20 Minutes |
 
 ### Section 1 : Analytical and Quantitative
 
@@ -105,7 +105,9 @@ I entered the interviewer's cabin, greeted her and took a seat.<br>
 She asked me for my Resume and told me that she was pretty impressed from my GitHub profile.<br>
 I honestly cannot express how glad I was for mentioning my GitHub profile on my Resume and during the interview.
 
- So remember kids, your GitHub profile is your second Resume.
+``` 
+So remember kids, your GitHub profile is your second Resume.
+```
 
 We then started talking about my experiences while developing the projects(both good and bad), internship experiences(both good and bad), my hobbies and interests, my weaknesses and how I keep myself updated in this ever-changing world of technology.
 
