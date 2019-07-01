@@ -70,6 +70,17 @@ This round consisted of a one-on-one interview with one of the panel members.
 
 The pannel member asked for my Resume and briefly went through it.
 <br>
-He then asked me one of the most feared questions: *" Tell me more about yourself "*. Honestly, at first I was dumbfounded because I honestly wasn't expecting that question in a technical round.
+He then asked me one of the most feared questions: *" Tell me more about yourself "*. Honestly, at first I was dumbfounded because I honestly wasn't expecting that question in a technical round. I told him about my background and about all of my projects and the experience I gained in my internships.
+
+I then started talking about my GitHub profile and about the open source projects that I've contributed to. He then checked my GitHub profile and my pinned repositories.
+
+After all the introductions, he gave me some simple math problems to solve.
+
+    A friendly tip: BREATHE IN, BREATHE OUT, its okay to be nervous, so take your time and calm down and solve the problem.
+
+You can find such math problems on [GeeksforGeeks](https://www.geeksforgeeks.org/company-interview-corner/) or on [Project Euler](https://projecteuler.net/archives) and practice there.
+
+I'll admit that I was pretty nervous and it took me longer than expected to solve the questions, and the interviewer was also very friendly and provided me with some hints for which I respect him a lot.
+
 
 
