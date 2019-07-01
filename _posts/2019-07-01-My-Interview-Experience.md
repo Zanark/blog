@@ -109,3 +109,4 @@ We then started talking about my experiences while developing the projects(both 
 
 She also asked me some Client-Consultant scenario questions, as to how I'll solve a problem reported by a client and how I'll keep the client updated on the progress.
 
+That was it, I thanked her and left the cabin with a huge smile because for me, the personal interview went really well and I was able to answer the interviewer's questions well. I'll be honest, I was proud of myself.
