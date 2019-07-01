@@ -66,3 +66,11 @@ In my defence, I was **REALLY** nervous. So if you saw me chowing down on chocal
 
 ## ROUND 1 - The Technical Interview
 
+This round consisted of a one-on-one interview with one of the panel members.
+
+The pannel member asked for my Resume and briefly went through it.
+
+He then asked me one of the most feared questions: *"Tell me more about yourself"*
+
+Honestly, at first I was dumbfounded because I honestly wasn't expecting that question in a technical round.
+
