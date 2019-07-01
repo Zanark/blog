@@ -61,7 +61,7 @@ We were then asked to get ready for the Technical Interview which was going to b
 
 After 2 days of preparation, THE DAY came.
 
-In my defence, I was **REALLY** nervous. So if you saw me chowing down on chocalates and acting all goofy, you know the reason now.
+In my defence, I was **REALLY** nervous. So if you saw me chowing down on chocalates and acting all goofy, I was basically trying to calm myself down with dopamine.
 <br>
 
 ## ROUND 1 - The Technical Interview
