@@ -95,6 +95,8 @@ He also asked me to code some Dynamic Programming Algorithms. I wasn't able to a
 And that's it, I thanked the interviewer and headed back to the waiting room to join my peers banging their heads on the wall.<br>
 I too was really dissapointed in myself for not being able to solve some of the basic questions.
 
+---
+
 ## ROUND 2 - The Personal Interview
 
 When I heard that I got selected for Round 2, I honestly couldn't believe it. I tried my best to hold my racing heart and the excitement in and took deep breaths to calm myself down and then headed for the interview.
@@ -110,3 +112,43 @@ We then started talking about my experiences while developing the projects(both 
 She also asked me some Client-Consultant scenario questions, as to how I'll solve a problem reported by a client and how I'll keep the client updated on the progress.
 
 That was it, I thanked her and left the cabin with a huge smile because for me, the personal interview went really well and I was able to answer the interviewer's questions well. I'll be honest, I was proud of myself.
+
+---
+
+## ROUND 3 - An Interview with the HR
+
+With a smile on my face and a boost in confidence from Round 2, I headed for the interview room for the 3rd round.
+
+The HR was an icredibly friendly and charming person, a perfect gentleman. He actually asked me for my Resume on the doorstep and I almsot dropped it while handing it to him, haha.
+
+He then started going through my Resume and asked me about my Projects.
+
+- Why did I choose to make this project?
+- How will I sell my project?
+- Does the world really need my solution to a problem whose solution already exists?
+- If the person I am trying to convince to buy my product doesnt agree at all then what will I do?
+
+I was basically asked questions about my projects and what I can do with them and what kind of people is my project going to help and how.
+
+---
+
+## The Results
+
+I was pretty confident and satisfied about how ny third round went. I was even ready to accept rejection because this interview experience taught me a lot about how interviews go and what interviewers look for in a candidate.
+
+I calmed myself down and waited for my results.
+
+Just kiding, I wasnt able to calm myself down. I couldn't sit down in a place because when I did my stomach started felling funny because of all that nervousness.
+
+After an hour of struggle to calm myself down, the pannel members entred the room with the list of selected students, and yes, I got selected.
+
+I was so happy that I just couldn't stop smilling because of which my jaw muscles started to pain.
+Now, I was just standing there with a locked jaw smiling like a goof.
+
+---
+
+And yep, that's how my Interview went....in a nutshell.
+
+I will soon upload another post where I'll add some Interview and Resume tips that I picked up from places on the internet. Until then goodbye.
+
+And yeah, **KEEP LEARNING NEW STUFF!!**
