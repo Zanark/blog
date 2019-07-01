@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://zanark.github.io/Blog//Blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://zanark.github.io/Blog//Blog/" rel="alternate" type="text/html" /><updated>2019-07-01T14:47:09+00:00</updated><id>https://zanark.github.io/Blog//Blog/feed.xml</id><title type="html">Zanark’s Blog</title><subtitle>I am a noob programmer who likes to automate stuff.</subtitle><entry><title type="html">My Interview Experience</title><link href="https://zanark.github.io/Blog//Blog/2019/07/01/My-Interview-Experience.html" rel="alternate" type="text/html" title="My Interview Experience" /><published>2019-07-01T00:00:00+00:00</published><updated>2019-07-01T00:00:00+00:00</updated><id>https://zanark.github.io/Blog//Blog/2019/07/01/My-Interview-Experience</id><content type="html" xml:base="https://zanark.github.io/Blog//Blog/2019/07/01/My-Interview-Experience.html">&lt;p&gt;Hello everyone! Hope you all are fine and dandy.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://zanark.github.io/Blog//Blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://zanark.github.io/Blog//Blog/" rel="alternate" type="text/html" /><updated>2019-07-01T14:47:59+00:00</updated><id>https://zanark.github.io/Blog//Blog/feed.xml</id><title type="html">Zanark’s Blog</title><subtitle>I am a noob programmer who likes to automate stuff.</subtitle><entry><title type="html">My Interview Experience</title><link href="https://zanark.github.io/Blog//Blog/2019/07/01/My-Interview-Experience.html" rel="alternate" type="text/html" title="My Interview Experience" /><published>2019-07-01T00:00:00+00:00</published><updated>2019-07-01T00:00:00+00:00</updated><id>https://zanark.github.io/Blog//Blog/2019/07/01/My-Interview-Experience</id><content type="html" xml:base="https://zanark.github.io/Blog//Blog/2019/07/01/My-Interview-Experience.html">&lt;p&gt;Hello everyone! Hope you all are fine and dandy.&lt;/p&gt;
 
 &lt;p&gt;So as you can see, this is the first genuine post on my blog and I would like to make it as useful as possible.
 Therefore, I’m going to share my interview experience here, hoping it might help some people out and provide
@@ -81,7 +81,7 @@ The topic I got was - &lt;em&gt;The effect of media on one’s social developmen
 
 &lt;p&gt;After 2 days of preparation, THE DAY came.&lt;/p&gt;
 
-&lt;p&gt;In my defence, I was &lt;strong&gt;REALLY&lt;/strong&gt; nervous. So if you saw me chowing down on chocolates and acting all goofy, I was basically trying to calm myself down with dopamine hits.
+&lt;p&gt;In my defence, I was &lt;strong&gt;REALLY&lt;/strong&gt; nervous. So if you saw me chowing down on chocolates and acting all goofy, I was basically trying to calm myself down with dopamine.
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;round-1---the-technical-interview&quot;&gt;ROUND 1 - The Technical Interview&lt;/h2&gt;
@@ -96,8 +96,7 @@ He then asked me one of the most feared questions: &lt;em&gt;” Tell me more ab
 
 &lt;p&gt;After all the introductions, he gave me some simple math problems to solve.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;A friendly tip: BREATHE IN, BREATHE OUT, its okay to feel nervous, so take your time and calm down and solve the problem.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;A friendly tip: BREATHE IN, BREATHE OUT, its okay to feel nervous, so take your time and calm down and solve the problem.&lt;/p&gt;
 
 &lt;p&gt;You can find such math problems on &lt;a href=&quot;https://www.geeksforgeeks.org/company-interview-corner/&quot;&gt;GeeksforGeeks&lt;/a&gt; or on &lt;a href=&quot;https://projecteuler.net/archives&quot;&gt;Project Euler&lt;/a&gt; and practice there.&lt;/p&gt;
 
@@ -125,7 +124,7 @@ I too was really disappointed in myself for not being able to solve some of the 
 &lt;p&gt;When I heard that I got selected for Round 2, I honestly couldn’t believe it. I tried my best to hold my racing heart and the excitement in and took deep breaths to calm myself down and then headed for the interview.&lt;/p&gt;
 
 &lt;p&gt;I entered the interviewer’s cabin, greeted her and took a seat.&lt;br /&gt;
-She asked me for my Resume and told me that she was pretty impressed by my GitHub profile.&lt;br /&gt;
+She asked me for my Resume and told me that she was pretty impressed from my GitHub profile.&lt;br /&gt;
 I honestly cannot express how glad I was for mentioning my GitHub profile on my Resume and during the interview.&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;So remember kids, your GitHub profile is your second Resume.
@@ -151,7 +150,7 @@ I honestly cannot express how glad I was for mentioning my GitHub profile on my 
   &lt;li&gt;Why did I choose to make this project?&lt;/li&gt;
   &lt;li&gt;How will I sell my project?&lt;/li&gt;
   &lt;li&gt;Does the world really need my solution to a problem whose solution already exists?&lt;/li&gt;
-  &lt;li&gt;If the person I am trying to convince to buy my product doesn’t agree at all then what should I do?&lt;/li&gt;
+  &lt;li&gt;If the person I am trying to convince to buy my product doesn’t agree at all then what will I do?&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;I was basically asked questions about my projects and what I can do with them and what kind of people is my project going to help and how.&lt;/p&gt;
