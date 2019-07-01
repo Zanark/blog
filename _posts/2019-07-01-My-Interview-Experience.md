@@ -21,7 +21,7 @@ Now let's just skip to the meat(panner if you are a vegetarian), the exam.
 The Exam was held on mettl, and it had 4 sections.
 
 | **Section** | **Alloted Time** |
-| :------ | :----------: |
+| :------ | :---------- |
 | Section 1 : Analytical and Quantitative -- 20 Questions | 20 Minutes |
 | Section 2 : Hands on Programming -- 2 Questions | 25 Minutes |
 | Section 3 : Tech MCQ -- 20 Questions | 20 Minutes |
@@ -46,15 +46,23 @@ It had some networking questions as well. Many people struggled here, but people
 
 ### Section 4 : Written English Test
 
-Here you are given a topic to write an essay on.
+Here we were given a topic to write an essay on.
 The topic I got was - *The effect of media on one's social development*
 
+<br><br>
 
-    The results of the written exam were declared on 22nd June, and luckily I was able to clear the written exam.
 
-    We were then asked to get ready for the Technical Interview which was going to be held on 24th June, yep, we had only 2 days to prepare for the interview
+The results of the written exam were declared on 22nd June, and luckily I was able to clear the written exam.
+
+We were then asked to get ready for the Technical Interview which was going to be held on 24th June, yep, we had only 2 days to prepare for the interview.
+
+---
+<br>
+
+After 2 days of preparation, THE DAY came.
+
+In my defence, I was **REALLY** nervous. So if you saw me chowing down on chocalates and acting all goofy, you know the reason now.
+<br>
 
 ## ROUND 1 - The Technical Interview
-
-
 
