@@ -82,5 +82,30 @@ You can find such math problems on [GeeksforGeeks](https://www.geeksforgeeks.org
 
 I'll admit that I was pretty nervous and it took me longer than expected to solve the questions, and the interviewer was also very friendly and provided me with some hints for which I respect him a lot.
 
+After discussing a bit more about my projects he asked me questions from Computer Science Fundamentals, like:
 
+- Operating Systems
+- OOPs Concepts
+- DBMS
+- Algorithms and Data Structures
+- Time Complexity and Space Complexity
+
+He also asked me to code some Dynamic Programming Algorithms. I wasn't able to answer all of the questions, but was able to give an outline of the approach one will take to solve the problems.
+
+And that's it, I thanked the interviewer and headed back to the waiting room to join my peers banging their heads on the wall.<br>
+I too was really dissapointed in myself for not being able to solve some of the basic questions.
+
+## ROUND 2 - The Personal Interview
+
+When I heard that I got selected for Round 2, I honestly couldn't believe it. I tried my best to hold my racing heart and the excitement in and took deep breaths to calm myself down and then headed for the interview.
+
+I entred the interviewer's cabin, greeted her and took a seat.<br>
+She asked me for my Resume and told me that she was pretty impressed from my GitHub profile.<br>
+I honestly cannot express how glad I was for mentioning my GitHub profile on my Resume and during the interview.
+
+    So remember kids, your GitHub profile is your second Resume.
+
+We then started talking about my experiences while developing the projects(both good and bad), internship experiences(both good and bad), my hobbies and interests, my weaknessess and how I keep myself updated in this everchanging world of technology.
+
+She also asked me some Client-Consultant scenario questions, as to how I'll solve a problem reported by a client and how I'll keep the client updated on the progress.
 
