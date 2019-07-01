@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://zanark.github.io/Blog//Blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://zanark.github.io/Blog//Blog/" rel="alternate" type="text/html" /><updated>2019-07-01T14:24:32+00:00</updated><id>https://zanark.github.io/Blog//Blog/feed.xml</id><title type="html">Zanark’s Blog</title><subtitle>I am a noob programmer who likes to automate stuff.</subtitle><entry><title type="html">My Interview Experience</title><link href="https://zanark.github.io/Blog//Blog/2019/07/01/My-Interview-Experience.html" rel="alternate" type="text/html" title="My Interview Experience" /><published>2019-07-01T00:00:00+00:00</published><updated>2019-07-01T00:00:00+00:00</updated><id>https://zanark.github.io/Blog//Blog/2019/07/01/My-Interview-Experience</id><content type="html" xml:base="https://zanark.github.io/Blog//Blog/2019/07/01/My-Interview-Experience.html">&lt;p&gt;Hello everyone! Hope you all are fine and dandy.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://zanark.github.io/Blog//Blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://zanark.github.io/Blog//Blog/" rel="alternate" type="text/html" /><updated>2019-07-01T14:29:24+00:00</updated><id>https://zanark.github.io/Blog//Blog/feed.xml</id><title type="html">Zanark’s Blog</title><subtitle>I am a noob programmer who likes to automate stuff.</subtitle><entry><title type="html">My Interview Experience</title><link href="https://zanark.github.io/Blog//Blog/2019/07/01/My-Interview-Experience.html" rel="alternate" type="text/html" title="My Interview Experience" /><published>2019-07-01T00:00:00+00:00</published><updated>2019-07-01T00:00:00+00:00</updated><id>https://zanark.github.io/Blog//Blog/2019/07/01/My-Interview-Experience</id><content type="html" xml:base="https://zanark.github.io/Blog//Blog/2019/07/01/My-Interview-Experience.html">&lt;p&gt;Hello everyone! Hope you all are fine and dandy.&lt;/p&gt;
 
 &lt;p&gt;So as you can see, this is the first genuine post on my blog and I would like to make it as useful as possible.
 Therefore, I’m going to share my interview experience here, hoping it might help some people out and provide
@@ -18,24 +18,29 @@ them with an idea of how the interview process looks and feels like.&lt;/p&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Section&lt;/strong&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt; &lt;/th&gt;
       &lt;th style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Alloted Time&lt;/strong&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Section 1 : Analytical and Quantitative – 20 Questions&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;20 Minutes&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Section 2 : Hands on Programming – 2 Questions&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;25 Minutes&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Section 3 : Tech MCQ – 20 Questions&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;20 Minutes&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Section 4 : Written English Test : 1 Question&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;20 Minutes&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -122,7 +127,8 @@ I too was really disappointed in myself for not being able to solve some of the 
 She asked me for my Resume and told me that she was pretty impressed from my GitHub profile.&lt;br /&gt;
 I honestly cannot express how glad I was for mentioning my GitHub profile on my Resume and during the interview.&lt;/p&gt;
 
-&lt;p&gt;So remember kids, your GitHub profile is your second Resume.&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;So remember kids, your GitHub profile is your second Resume.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;We then started talking about my experiences while developing the projects(both good and bad), internship experiences(both good and bad), my hobbies and interests, my weaknesses and how I keep myself updated in this ever-changing world of technology.&lt;/p&gt;
 
