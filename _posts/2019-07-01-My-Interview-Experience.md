@@ -77,7 +77,8 @@ I then started talking about my GitHub profile and about the open source project
 After all the introductions, he gave me some simple math problems to solve.
 
 ```
-A friendly tip: BREATHE IN, BREATHE OUT, its okay to feel nervous, so take your time and calm down and solve the problem.
+A friendly tip: BREATHE IN, BREATHE OUT, its okay to feel nervous, 
+so take your time and calm down and solve the problem.
 ```
 
 You can find such math problems on [GeeksforGeeks](https://www.geeksforgeeks.org/company-interview-corner/) or on [Project Euler](https://projecteuler.net/archives) and practice there.
