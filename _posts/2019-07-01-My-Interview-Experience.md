@@ -130,7 +130,7 @@ He then started going through my Resume and asked me about my Projects.
 - Why did I choose to make this project?
 - How will I sell my project?
 - Does the world really need my solution to a problem whose solution already exists?
-- If the person I am trying to convince to buy my product doesn't agree at all then what will I do?
+- If the person I am trying to convince to buy my product doesn't agree at all then what should I do?
 
 I was basically asked questions about my projects and what I can do with them and what kind of people is my project going to help and how.
 
