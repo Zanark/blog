@@ -61,7 +61,7 @@ We were then asked to get ready for the Technical Interview which was going to b
 
 After 2 days of preparation, THE DAY came.
 
-In my defence, I was **REALLY** nervous. So if you saw me chowing down on chocolates and acting all goofy, I was basically trying to calm myself down with dopamine.
+In my defence, I was **REALLY** nervous. So if you saw me chowing down on chocolates and acting all goofy, I was basically trying to calm myself down with dopamine hits.
 <br>
 
 ## ROUND 1 - The Technical Interview
@@ -102,7 +102,7 @@ I too was really disappointed in myself for not being able to solve some of the 
 When I heard that I got selected for Round 2, I honestly couldn't believe it. I tried my best to hold my racing heart and the excitement in and took deep breaths to calm myself down and then headed for the interview.
 
 I entered the interviewer's cabin, greeted her and took a seat.<br>
-She asked me for my Resume and told me that she was pretty impressed from my GitHub profile.<br>
+She asked me for my Resume and told me that she was pretty impressed by my GitHub profile.<br>
 I honestly cannot express how glad I was for mentioning my GitHub profile on my Resume and during the interview.
 
 ``` 
