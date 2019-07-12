@@ -46,3 +46,12 @@ So dont let yourself get bored, go draw, learn something new, go out and play, t
 
 When you hang out with people who have achieved something in their lives or are striving towards achieving something, you get inspired do someting in your life too. They might not know about this but they are your indirect mentors. Seeing them persue something ignites a fire inside you and when this fire spreads to other people, they too get motivated to do something and then this cycle goes on and on and on.
 
+
+---
+
+So these were a few tips that I've been following since past 3 weeks and it has motivated me to keep on pushing harder and increase my work stamina.
+
+The video that inspired me to write this Blog Post: [YouTube Video](https://youtu.be/zUr9n0Hy3PA)
+
+So goodbye ppl, and keep learning new stuff.
+
