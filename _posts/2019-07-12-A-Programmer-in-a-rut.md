@@ -14,4 +14,14 @@ It can actually come also after success as well, maybe you're starting to feel l
 
 So if you can relate to anything close to what I mentioned above then you might be in a rut and its totally okay. Trust me it happens to the best of us.
 
-I wanted to give 
+I wanted to give you some of the best tips that I've learned from other people to et yourself out of it.
+
+### 1. Start Small
+
+When in a rut, you just dont feel like doing anything, like anything at all. Even the thought of a small task like setting up your bed can exhaust you and make you feel unmotivated instantly.
+
+So instead of looking at the as a whole, break 'em down to smaller tasks that you can complete quickly. This gives you a small shot of motivation and that sweet lil dope-a-mine.
+
+Starting small is the key, you can then slowly combine everything and finish that task which was daunting on you without getting exhausted.
+
+### 2. 
