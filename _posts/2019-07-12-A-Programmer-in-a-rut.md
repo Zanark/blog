@@ -12,7 +12,7 @@ It can actually come also after success as well, maybe you're starting to feel l
 
 So if you can relate to anything close to what I mentioned above then you might be in a rut and its totally okay. Trust me it happens to the best of us.
 
-I wanted to give you some of the best tips that I've learned from other people to et yourself out of it.
+I wanted to give you some of the best tips that I've learned from other people to get yourself out of it.
 
 ### 1. Start Small.
 
