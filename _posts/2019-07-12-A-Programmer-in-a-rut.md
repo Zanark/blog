@@ -10,4 +10,4 @@ It doesn't matter how successfull you are or how hard-working you are or how eas
 
 The thing that rendered you useless can be anything, it can be a bug which you're just unable to rectify, it can be a badly documented API, or maybe its because you are a JAVA Programmer.
 
-
+It can actually come also after success as well, maybe you're starting to feel less motivated while solving even the most challenging questions, maybe you are feeling comfortable with the status of your app and dont want to add any new features to ruin its simplicity.
