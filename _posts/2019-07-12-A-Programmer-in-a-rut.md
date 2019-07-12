@@ -40,3 +40,9 @@ It basically brings too much unpleasentness with it.
 
 So dont let yourself get bored, go draw, learn something new, go out and play, try someone else's spotify playlist, watch a new movie/anime/tv-series/whatever.
 
+### 4. Connect to people who inspire you.
+
+> You are the avergae of the 5 people you spend most of your time with.
+
+When you hang out with people who have achieved something in their lives or are striving towards achieving something, you get inspired do someting in your life too. They might not know about this but they are your indirect mentors. Seeing them persue something ignites a fire inside you and when this fire spreads to other people, they too get motivated to do something and then this cycle goes on and on and on.
+
