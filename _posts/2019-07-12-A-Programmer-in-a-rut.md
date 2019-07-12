@@ -16,7 +16,7 @@ I wanted to give you some of the best tips that I've learned from other people t
 
 ### 1. Start Small.
 
-When in a rut, you just dont feel like doing anything, like anything at all. Even the thought of a small task like setting up your bed can exhaust you and make you feel unmotivated instantly.
+When in a rut, you just dont feel like doing anything, like nothing at all. Even the thought of a small task like setting up your bed can exhaust you and make you feel unmotivated instantly.
 
 So instead of looking at the as a whole, break 'em down to smaller tasks that you can complete quickly. This gives you a small shot of motivation and that sweet lil dope-a-mine.
 
