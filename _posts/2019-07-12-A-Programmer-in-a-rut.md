@@ -43,7 +43,7 @@ So don't let yourself get bored, go draw, learn something new, go out and play, 
 > You are the average of the 5 people you spend most of your time with.
 
 <br>
-When you hang out with people who have achieved something in their lives or are striving towards achieving something, you get inspired do something in your life too. They might not know about this but they are your indirect mentors. Seeing them persue something ignites a fire inside you and when this fire spreads to other people, they too get motivated to do something and then this cycle goes on and on and on.
+When you hang out with people who have achieved something in their lives or are striving towards achieving something, you get inspired do something in your life too. They might not know about this but they are your indirect mentors. Seeing them pursue something ignites a fire inside you and when this fire spreads to other people, they too get motivated to do something and then this cycle goes on and on and on.
 
 
 ---
