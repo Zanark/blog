@@ -32,5 +32,11 @@ So set your priorities straight. If you want to have fun that day, then focus on
 
 Stick to your priorities and you'll be able to finish all the tasks and this time there wont be a pile of laundry on the back of your mind.
 
+### 3. Don't let yourself get bored.
 
+Boredom brings sadness. It'll make you think about your life, all the bad choices you made in the past, whether you are happy or not etc.
+
+It basically brings too much unpleasentness with it.
+
+So dont let yourself get bored, go draw, learn something new, go out and play, try someone else's spotify playlist, watch a new movie/anime/tv-series/whatever.
 
