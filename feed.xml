@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://zanark.github.io/Blog//Blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://zanark.github.io/Blog//Blog/" rel="alternate" type="text/html" /><updated>2019-07-10T12:15:33+00:00</updated><id>https://zanark.github.io/Blog//Blog/feed.xml</id><title type="html">Zanark’s Blog</title><subtitle>I am a noob programmer who likes to automate stuff.</subtitle><entry><title type="html">My C# and .NET journal</title><link href="https://zanark.github.io/Blog//Blog/2019/07/10/My-C-and-.NET-Journal.html" rel="alternate" type="text/html" title="My C# and .NET journal" /><published>2019-07-10T00:00:00+00:00</published><updated>2019-07-10T00:00:00+00:00</updated><id>https://zanark.github.io/Blog//Blog/2019/07/10/My-C#-and-.NET-Journal</id><content type="html" xml:base="https://zanark.github.io/Blog//Blog/2019/07/10/My-C-and-.NET-Journal.html">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Zanark/Blog/master/media/CNET%20Thumb.png&quot; alt=&quot;C# .NET Tutorial series Thumbail&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://zanark.github.io/Blog//Blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://zanark.github.io/Blog//Blog/" rel="alternate" type="text/html" /><updated>2019-07-12T16:58:53+00:00</updated><id>https://zanark.github.io/Blog//Blog/feed.xml</id><title type="html">Zanark’s Blog</title><subtitle>I am a noob programmer who likes to automate stuff.</subtitle><entry><title type="html">Deployment test</title><link href="https://zanark.github.io/Blog//Blog/2019/07/12/A-Programmer-in-a-rut.html" rel="alternate" type="text/html" title="Deployment test" /><published>2019-07-12T00:00:00+00:00</published><updated>2019-07-12T00:00:00+00:00</updated><id>https://zanark.github.io/Blog//Blog/2019/07/12/A-Programmer-in-a-rut</id><content type="html" xml:base="https://zanark.github.io/Blog//Blog/2019/07/12/A-Programmer-in-a-rut.html">&lt;h1 id=&quot;a-programmer-stuck-in-a-rut&quot;&gt;A Programmer stuck in a rut.&lt;/h1&gt;
+
+&lt;p&gt;It doesn’t matter how successful you are or how hard-working you are or how easily you can get motivated to do something, eventually you’ll reach a point in your life where you’ll start loosing interest in everything. You’ll start feeling comfortable with not challenging yourself anymore. You won’t be able to get inspired and motivated from any new challenges. You won’t be able to bring up the desire to take an action.&lt;/p&gt;
+
+&lt;p&gt;The thing that rendered you useless can be anything, it can be a bug which you’re just unable to rectify, it can be a badly documented API, or maybe its because you are a JAVA Programmer.&lt;/p&gt;
+
+&lt;p&gt;It can actually come also after success as well, maybe you’re starting to feel less motivated while solving even the most challenging questions, maybe you are feeling comfortable with the status of your app and dont want to add any new features to ruin its simplicity.&lt;/p&gt;
+
+&lt;p&gt;So if you can relate to anything close to what I mentioned above then you might be in a rut and its totally okay. Trust me it happens to the best of us.&lt;/p&gt;
+
+&lt;p&gt;I wanted to give you some of the best tips that I’ve learned from other people to et yourself out of it.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-start-small&quot;&gt;1. Start Small.&lt;/h3&gt;
+
+&lt;p&gt;When in a rut, you just dont feel like doing anything, like anything at all. Even the thought of a small task like setting up your bed can exhaust you and make you feel unmotivated instantly.&lt;/p&gt;
+
+&lt;p&gt;So instead of looking at the as a whole, break ‘em down to smaller tasks that you can complete quickly. This gives you a small shot of motivation and that sweet lil dope-a-mine.&lt;/p&gt;
+
+&lt;p&gt;Starting small is the key, you can then slowly combine everything and finish that task which was daunting on you without getting exhausted.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-set-your-priorities-and-use-your-time-judiciously&quot;&gt;2. Set your priorities and use your time judiciously.&lt;/h3&gt;
+
+&lt;p&gt;When you create a time-table for the day, you must have found yourself putting every task at hand on the plate which make you run out of time to do other tasks. Trust me this happens to everyone. You might want to complete all the tasks in a single day but all of us only get 24 hrs, and &lt;strong&gt;sleep is important&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;So set your priorities straight. If you want to have fun that day, then focus on what brings you joy at what time of the day and do not let anything disrupt the time alloted to fun.&lt;/p&gt;
+
+&lt;p&gt;Stick to your priorities and you’ll be able to finish all the tasks and this time there wont be a pile of laundry on the back of your mind.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-dont-let-yourself-get-bored&quot;&gt;3. Don’t let yourself get bored.&lt;/h3&gt;
+
+&lt;p&gt;Boredom brings sadness. It’ll make you think about your life, all the bad choices you made in the past, whether you are happy or not etc.&lt;/p&gt;
+
+&lt;p&gt;It basically brings too much unpleasantness with it.&lt;/p&gt;
+
+&lt;p&gt;So don’t let yourself get bored, go draw, learn something new, go out and play, try someone else’s Spotify playlist, watch a new movie/anime/tv-series/whatever.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-connect-to-people-who-inspire-you&quot;&gt;4. Connect to people who inspire you.&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You are the average of the 5 people you spend most of your time with.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;When you hang out with people who have achieved something in their lives or are striving towards achieving something, you get inspired do something in your life too. They might not know about this but they are your indirect mentors. Seeing them persue something ignites a fire inside you and when this fire spreads to other people, they too get motivated to do something and then this cycle goes on and on and on.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;So these were a few tips that I’ve been trying to implement in my life since past 3 weeks and it has motivated me to keep on pushing harder and increase my work stamina.&lt;/p&gt;
+
+&lt;p&gt;The video that inspired me to write this Blog Post: &lt;a href=&quot;https://youtu.be/zUr9n0Hy3PA&quot;&gt;YouTube Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;So goodbye ppl, and keep learning new stuff.&lt;/p&gt;</content><author><name>Zanark</name></author><summary type="html">A Programmer stuck in a rut.</summary></entry><entry><title type="html">My C# and .NET journal</title><link href="https://zanark.github.io/Blog//Blog/2019/07/10/My-C-and-.NET-Journal.html" rel="alternate" type="text/html" title="My C# and .NET journal" /><published>2019-07-10T00:00:00+00:00</published><updated>2019-07-10T00:00:00+00:00</updated><id>https://zanark.github.io/Blog//Blog/2019/07/10/My-C#-and-.NET-Journal</id><content type="html" xml:base="https://zanark.github.io/Blog//Blog/2019/07/10/My-C-and-.NET-Journal.html">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Zanark/Blog/master/media/CNET%20Thumb.png&quot; alt=&quot;C# .NET Tutorial series Thumbail&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So I’ve started a new series on my YouTube channel - C# and .NET Tutorial Series.&lt;/p&gt;
 
