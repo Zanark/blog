@@ -6,7 +6,7 @@ author: "Zanark"
 
 # A Programmer stuck in a rut.
 
-It doesn't matter how successfull you are or how hard-working you are or how easily you can get motivated to do someting, eventually you'll reach a point in your life where you'll start loosing interest in everything. You'll start feeling comfortable with not challenging yourself anymore. You won't be able to get inspired and motivated from any new challenges. You won't be able to bring up the desire to take an action.
+It doesn't matter how successful you are or how hard-working you are or how easily you can get motivated to do something, eventually you'll reach a point in your life where you'll start loosing interest in everything. You'll start feeling comfortable with not challenging yourself anymore. You won't be able to get inspired and motivated from any new challenges. You won't be able to bring up the desire to take an action.
 
 The thing that rendered you useless can be anything, it can be a bug which you're just unable to rectify, it can be a badly documented API, or maybe its because you are a JAVA Programmer.
 
@@ -26,7 +26,7 @@ Starting small is the key, you can then slowly combine everything and finish tha
 
 ### 2. Set your priorities and use your time judiciously.
 
-When you create a time-table for the day, you must have found yourself putting every task at hand on the plate which make you run out of time to do other taks. Trust me this happens to everyone. You might want to complete all the tasks in a single day but all of us only get 24hrs, and **sleep is important**.
+When you create a time-table for the day, you must have found yourself putting every task at hand on the plate which make you run out of time to do other tasks. Trust me this happens to everyone. You might want to complete all the tasks in a single day but all of us only get 24 hrs, and **sleep is important**.
 
 So set your priorities straight. If you want to have fun that day, then focus on what brings you joy at what time of the day and do not let anything disrupt the time alloted to fun.
 
@@ -36,22 +36,21 @@ Stick to your priorities and you'll be able to finish all the tasks and this tim
 
 Boredom brings sadness. It'll make you think about your life, all the bad choices you made in the past, whether you are happy or not etc.
 
-It basically brings too much unpleasentness with it.
+It basically brings too much unpleasantness with it.
 
-So dont let yourself get bored, go draw, learn something new, go out and play, try someone else's spotify playlist, watch a new movie/anime/tv-series/whatever.
+So don't let yourself get bored, go draw, learn something new, go out and play, try someone else's Spotify playlist, watch a new movie/anime/tv-series/whatever.
 
 ### 4. Connect to people who inspire you.
 
-> You are the avergae of the 5 people you spend most of your time with.
+> You are the average of the 5 people you spend most of your time with.
 
-When you hang out with people who have achieved something in their lives or are striving towards achieving something, you get inspired do someting in your life too. They might not know about this but they are your indirect mentors. Seeing them persue something ignites a fire inside you and when this fire spreads to other people, they too get motivated to do something and then this cycle goes on and on and on.
+When you hang out with people who have achieved something in their lives or are striving towards achieving something, you get inspired do something in your life too. They might not know about this but they are your indirect mentors. Seeing them persue something ignites a fire inside you and when this fire spreads to other people, they too get motivated to do something and then this cycle goes on and on and on.
 
 
 ---
 
-So these were a few tips that I've been following since past 3 weeks and it has motivated me to keep on pushing harder and increase my work stamina.
+So these were a few tips that I've been trying to implement in my life since past 3 weeks and it has motivated me to keep on pushing harder and increase my work stamina.
 
 The video that inspired me to write this Blog Post: [YouTube Video](https://youtu.be/zUr9n0Hy3PA)
 
 So goodbye ppl, and keep learning new stuff.
-
