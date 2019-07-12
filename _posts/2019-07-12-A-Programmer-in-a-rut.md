@@ -16,7 +16,7 @@ So if you can relate to anything close to what I mentioned above then you might 
 
 I wanted to give you some of the best tips that I've learned from other people to et yourself out of it.
 
-### 1. Start Small
+### 1. Start Small.
 
 When in a rut, you just dont feel like doing anything, like anything at all. Even the thought of a small task like setting up your bed can exhaust you and make you feel unmotivated instantly.
 
@@ -24,4 +24,13 @@ So instead of looking at the as a whole, break 'em down to smaller tasks that yo
 
 Starting small is the key, you can then slowly combine everything and finish that task which was daunting on you without getting exhausted.
 
-### 2. 
+### 2. Set your priorities and use your time judiciously.
+
+When you create a time-table for the day, you must have found yourself putting every task at hand on the plate which make you run out of time to do other taks. Trust me this happens to everyone. You might want to complete all the tasks in a single day but all of us only get 24hrs, and **sleep is important**.
+
+So set your priorities straight. If you want to have fun that day, then focus on what brings you joy at what time of the day and do not let anything disrupt the time alloted to fun.
+
+Stick to your priorities and you'll be able to finish all the tasks and this time there wont be a pile of laundry on the back of your mind.
+
+
+
