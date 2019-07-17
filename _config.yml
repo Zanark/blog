@@ -36,13 +36,18 @@ plugins:
 paginate: 4
 paginate_path: "/Blog/page:num/"
 
-social_links:
-    - url: https://www.youtube.com/channel/UCwnUr0cB24YKbafp2wwQK2w
-      icon: youtube
-      color: indian-red
-    - url: https://github.com/Zanark
-      icon: github-square
-      color: purple
+tag_permalink_style: pretty
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+dash:
+  social_links:
+      - url: https://www.youtube.com/channel/UCwnUr0cB24YKbafp2wwQK2w
+        icon: youtube
+        color: red
+      - url: https://github.com/Zanark
+        icon: github-square
+        color: purple
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
