@@ -32,8 +32,9 @@ plugins:
  - liquid-md5
  - jekyll/tagging
 
-
+#jekyll-paginate
 paginate: 5
+paginate_path: "/Blog/page:num/"
 
 social_links:
     - url: https://www.youtube.com/channel/UCwnUr0cB24YKbafp2wwQK2w
