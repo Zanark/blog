@@ -42,7 +42,7 @@ social_links:
       color: indian-red
     - url: https://github.com/Zanark
       icon: github-square
-      color: violet
+      color: purple
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
