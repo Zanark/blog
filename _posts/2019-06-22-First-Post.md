@@ -2,6 +2,7 @@
 layout: "post"
 title: "Hello World!"
 author: "Zanark"
+tags: test
 ---
 
 This is the first post on this blog.
