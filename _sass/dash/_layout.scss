@@ -1,0 +1,341 @@
+.site-header {
+  min-height: $spacing-unit * 1.865;
+  line-height: $base-line-height * $base-font-size * 2.25;
+
+  // Positioning context for the mobile navigation icon
+  position: relative;
+
+  .blinking_cursor {
+    animation: blinker 1s none infinite;
+    font-size: $base-font-size * 1.25;
+  }
+
+  .command_prompt {
+    color: $color-blue;
+    font-size: $base-font-size;
+
+    svg {
+      width: 20px;
+      height: 20px;
+      margin-bottom: -1px;
+      margin-left: 1px;
+    }
+
+    &:before {
+      content: $icon-chevron-right;
+      @include font-awesome-icon;
+    }
+  }
+}
+
+.site-title {
+  @include relative-font-size(1.625);
+  font-weight: 300;
+  margin-bottom: 0;
+  float: left;
+
+  @include media-query($on-palm) {
+    padding-right: 45px;
+  }
+
+  &,
+  &:visited,
+  &:hover {
+    color: $color-foreground;
+    text-decoration: none;
+  }
+}
+
+.site-footer {
+  margin-bottom: 2em
+}
+
+.wrapper {
+  text-align: justify;
+}
+
+/**
+ * Author box
+ */
+
+ .author-box {
+   margin-bottom: 1em;
+   text-align: left;
+   min-height: 72px;
+   font-style: italic;
+   & > .author-avatar {
+     float: left;
+     white-space: pre-line;
+     margin-right: 1em;
+     width: 72px;
+     height: 72px;
+     border-radius: 0.3em;
+   }
+ }
+
+.site-header {
+  margin-bottom: 1em;
+}
+
+
+.post-title {
+    color: $color-foreground;
+    text-align: left;
+}
+
+.post-description {
+  margin-top: 1em;
+  font-size: $base-font-size * 1.15;
+  color: $color-foreground;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 100%;
+  animation: type 2s steps(60, end);
+  margin-bottom: 1em;
+
+  & > svg {
+    color: $color-blue;
+    margin-right: 0.6em;
+    margin-bottom: -1px;
+  }
+
+  &:after {
+    content: "_";
+    animation: blinker 1s none infinite;
+    font-size: 16px;
+  }
+
+  &:before {
+    content: $icon-chevron-right;
+    @include font-awesome-icon;
+  }
+}
+
+.post {
+  margin-bottom: 2em;
+  .post-date {
+    margin-top: 1em;
+    color: $color-foreground-dark;
+    font-size: 12px;
+    margin-top: 1em;
+    margin-left: 0.5em;
+  }
+
+  strong {
+    color: white;
+  }
+
+  img {
+    border-radius: 0.3em;
+    width: 100%;
+  }
+
+  ol > li {
+    margin-left: 1em;
+    text-align: left;
+    margin-bottom: 0.6em;
+  }
+
+  ul > li {
+    text-align: left;
+    margin-bottom: 0.6em;
+    color: lighten($color-green, 25%);
+    list-style: none;
+    margin-left: 0;
+
+    svg {
+      color: $color-green;
+      margin-right: 0.65em;
+      margin-bottom: -1px;
+    }
+
+    &:before {
+      content: $icon-check;
+      @include font-awesome-icon;
+    }
+  }
+
+  ul, ol {
+    padding: 0;
+    margin-left: 0.5em;
+  }
+
+
+
+  & > blockquote {
+    margin-top: 2em;
+    margin-bottom: 1em;
+    margin-left: 0.5em;
+    font-style: italic;
+    color: lighten($color-yellow, 20%);
+
+    &:before {
+      content: $icon-quote-right;
+      @include font-awesome-icon;
+    }
+
+    & > svg.svg-inline--fa {
+      color: lighten($color-yellow, 20%);
+      float: left;
+      width: 3em;
+      height: 3em;
+      margin-right: 1em;
+    }
+
+    & > ul > li > svg {
+      color: lighten($color-yellow, 20%);
+    }
+
+    li {
+      color: $color-yellow;
+      &:before {
+        content: $icon-minus;
+      }
+
+      & > svg {
+        margin-left: 2em;
+      }
+    }
+  }
+}
+
+.post-link-wrapper {
+   margin-bottom: 1.1em;
+   & > .post-link {
+     font-size: $base-font-size;
+     font-size: $post-link-font-size;
+   }
+
+   & > .post-meta {
+     color: $color-foreground-dark;
+     font-size: $small-font-size;
+   }
+ }
+
+ .tag-cloud {
+   margin-bottom: 2em;
+   text-align: left;
+   & > a {
+     display: inline-block;
+     margin-bottom: 1em;
+   }
+ }
+
+.tag, .tag-cloud > a {
+  color: $color-green;
+  background-color: $color-background-dark;
+  padding: 0.3em 0.6em;
+  border-radius: 0.3em;
+  &:hover {
+    text-decoration: none;
+    color: lighten($color-green, 20%);
+    background-color: lighten($color-background-dark, 5%);
+  }
+
+  & > svg {
+    margin-right: 0.4em;
+  }
+
+  &:before {
+    content: $icon-tag;
+    @include font-awesome-icon;
+  }
+}
+
+.post-tags {
+  margin-top: 0.3em;
+  margin-bottom: 0.5em;
+}
+
+.credits {
+  font-size: 10px;
+  color: lighten($color-background-dark, 5%);
+
+  & > a {
+    color: lighten($color-background-dark, 10%);
+    text-decoration: underline;
+  }
+}
+
+.pagination {
+  font-size: $post-link-font-size;
+  margin: 1em 0;
+  & > a, & > span {
+    font-weight: normal;
+    display: inline-block;
+    min-width: 1em;
+
+    padding: 0.3em 0.6em;
+    border-radius: 0.3em;
+    text-align: center;
+
+    &:hover {
+      text-decoration: none;
+    }
+
+    svg {
+      padding-left: 0.1em;
+    }
+  }
+
+  & > a {
+    color: $color-green;
+    background-color: $color-background-dark;
+    &:hover {
+      color: lighten($color-green, 20%);
+      background-color: lighten($color-background-dark, 5%);
+    }
+  }
+
+  & > span {
+    color: darken($color-foreground, 20%);
+    background-color: darken($color-background-dark, 3%);
+  }
+}
+
+.social_links {
+  float: right;
+  text-align: right;
+  display: inline-block;
+  & > a {
+    color: darken($color-foreground, 10%);
+    display: inline-block;
+    padding-left: 0.3em;
+    font-size: $post-link-font-size * 1.35;
+  }
+}
+
+ul.related-posts {
+
+    margin: 0;
+    margin-left: 1em;
+    padding: 0;
+
+  & > li {
+    list-style: none;
+    margin-left: 0;
+
+    a {
+      display: inline-block;
+      padding-top: 0.5em;
+      padding-bottom: 0.5em;
+    }
+    h3 {
+      display: inline-block;
+      margin: 0;
+    }
+
+    & > svg.svg-inline--fa {
+      color: $color-green;
+      margin-right: 0.3em;
+      width: 22px;
+      height: 22px;
+      margin-bottom: -2px;
+    }
+
+    &:before {
+      content: $icon-flask;
+      @include font-awesome-icon;
+    }
+  }
+}
