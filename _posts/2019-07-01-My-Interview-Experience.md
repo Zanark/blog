@@ -2,6 +2,7 @@
 layout: "post"
 title: "My Interview Experience"
 author: "Zanark"
+tags: tips interview
 ---
 
 Hello everyone! Hope you all are fine and dandy.
