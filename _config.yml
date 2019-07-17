@@ -33,7 +33,7 @@ plugins:
  - jekyll/tagging
 
 #jekyll-paginate
-paginate: 5
+paginate: 4
 paginate_path: "/Blog/page:num/"
 
 social_links:
