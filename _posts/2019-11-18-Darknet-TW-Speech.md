@@ -68,9 +68,7 @@ All we can say for certain is that deep web content accounts for the vast majori
 
 Dark Web is just that small portion of deepweb which has extra security and is intentionally hidden from search engines.
 <br><br>
-Now lets explore the Dark Web, more specifically the Darknet known as TOR.
 
-## What is TOR? How does it work?
 
 ## Case Study - Silk Road
 
@@ -94,19 +92,12 @@ You can find numerous others just like it, selling every illegal drug you can im
 The FBI also claimed that the owner of the Silk Road website had attempted to have six people killed by using deep web murder-for-hire services. While the assassinations themselves are unlikely to have occurred, these websites can definitely
 be found on the dark web.
 
-## RED ROOMS
+---
 
-There's somewhat of an urban legend known as red rooms. A red room is a livestream of a person being tortured and/or murdered for
-the entertainment of others. Supposedly, the viewers may event interact by typing down
-instructions. Again there's no evidence of this ever taking place but the myth persists.
-Not too long ago, a .onion link appeared on various forums which take you to a page
-claiming that a red room-style livestream would shortly begin. The victims where supposedly
-captured ISIS terrorists and the soon-to-be-killers promised hours of torture. Though the first
-hour would be family friendly. You know, for all the kids staying up late to watch a person
-being brutally murdered live on the dark web.
+.
+.
+.
 
-After much morbid anticipation, the livestream went live and viewers where greeted by a plate of bacon.
-
-## 
+Well yep I haven't explained some stuff, especially how TOR works, I'm gonna explain that in another post that I'm working on right now and will upload soon.
 
 
