@@ -72,7 +72,41 @@ Now lets explore the Dark Web, more specifically the Darknet known as TOR.
 
 ## What is TOR? How does it work?
 
+## Case Study - Silk Road
+
+Anonymity attracts a vast variety of people and can be used for both licit and illicit purposes.
+
+Ever since the birth of the internet, people have used it for illegeal online activity. Infact one of the first E-Commerce transcations was a drug deal which was done in between two students at MIT Stanford in 1970.
+
+In October of 2013, the FBI took down the online drug marketplace known as Silk Road.
+
+The website had been in operation since the beginning of 2011 with a total revenue estimated at $1.2 billion. News about the Silk Road website brought the dark web out of the dark and right into public eye.
+
+Only a few months after Silk Road had been taken down ex-administrators of the site launched Silk Road 2.0.
+
+However, in late 2014, the FBI arrested the admins and the second marketplace was taken down as well.
+
+A few hours after that, Silk Road 3.0 was launched and the seemingly endless spiral continues. And keep in mind that Silk Road
+was just one website among many.
+
+You can find numerous others just like it, selling every illegal drug you can imagine and more.
+
+The FBI also claimed that the owner of the Silk Road website had attempted to have six people killed by using deep web murder-for-hire services. While the assassinations themselves are unlikely to have occurred, these websites can definitely
+be found on the dark web.
+
+## RED ROOMS
+
+There's somewhat of an urban legend known as red rooms. A red room is a livestream of a person being tortured and/or murdered for
+the entertainment of others. Supposedly, the viewers may event interact by typing down
+instructions. Again there's no evidence of this ever taking place but the myth persists.
+Not too long ago, a .onion link appeared on various forums which take you to a page
+claiming that a red room-style livestream would shortly begin. The victims where supposedly
+captured ISIS terrorists and the soon-to-be-killers promised hours of torture. Though the first
+hour would be family friendly. You know, for all the kids staying up late to watch a person
+being brutally murdered live on the dark web.
+
+After much morbid anticipation, the livestream went live and viewers where greeted by a plate of bacon.
+
+## 
 
 
-
-However ever since the birth of the internet, people have used it for illegeal online activity. Infact one of the first E-Commerce transcations was a drug deal which was done in between two students at MIT Stanford in 1970.
