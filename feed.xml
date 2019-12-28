@@ -1,4 +1,103 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://zanark.github.io/Blog//Blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://zanark.github.io/Blog//Blog/" rel="alternate" type="text/html" /><updated>2019-11-20T09:26:08+00:00</updated><id>https://zanark.github.io/Blog//Blog/feed.xml</id><title type="html">Zanark’s Blog</title><subtitle>I am a noob programmer who likes to automate stuff.</subtitle><entry><title type="html">A brief explanation of the Dark Side of the Internet</title><link href="https://zanark.github.io/Blog//Blog/2019/11/18/Darknet-TW-Speech.html" rel="alternate" type="text/html" title="A brief explanation of the Dark Side of the Internet" /><published>2019-11-18T00:00:00+00:00</published><updated>2019-11-18T00:00:00+00:00</updated><id>https://zanark.github.io/Blog//Blog/2019/11/18/Darknet-TW-Speech</id><content type="html" xml:base="https://zanark.github.io/Blog//Blog/2019/11/18/Darknet-TW-Speech.html">&lt;p&gt;&lt;em&gt;This is kind of a support material for my TW speech&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://zanark.github.io/Blog//Blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://zanark.github.io/Blog//Blog/" rel="alternate" type="text/html" /><updated>2019-12-28T11:46:53+00:00</updated><id>https://zanark.github.io/Blog//Blog/feed.xml</id><title type="html">Zanark’s Blog</title><subtitle>I am a noob programmer who likes to automate stuff.</subtitle><entry><title type="html">What is Linux Ricing</title><link href="https://zanark.github.io/Blog//Blog/2019/12/28/What-is-Linux-Ricing.html" rel="alternate" type="text/html" title="What is Linux Ricing" /><published>2019-12-28T00:00:00+00:00</published><updated>2019-12-28T00:00:00+00:00</updated><id>https://zanark.github.io/Blog//Blog/2019/12/28/What-is-Linux-Ricing</id><content type="html" xml:base="https://zanark.github.io/Blog//Blog/2019/12/28/What-is-Linux-Ricing.html">&lt;p&gt;Yo ppl, guess the year is about to end and I havent uploaded a vid on my channel for a long time….nor have I posted nything on my blog here……kek.&lt;/p&gt;
+
+&lt;p&gt;So I’ve been asked by a lot of people - What the fuck is ricing? How do I do it?..and stuff.&lt;/p&gt;
+
+&lt;p&gt;So according to the favourite social hub of introverted virgin nerds(like me)…reddit and a subreddit where Arch users will never stop flexing, r/unixporn:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Rice” is a word that is commonly used to refer to making visual improvements and customizations on one’s desktop.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The term “ricing” was inheritted from the practice of customizing or modifying cars in Asia to make them look…..cool?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../media/riced_car.jpg&quot; alt=&quot;riced_car&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Not being racist, the word is accepted by the majority of the community and is used sparingly to refer to a visually attractive desktop upgraded beyond the default.&lt;/p&gt;
+
+&lt;p&gt;OK, so how does one start?&lt;/p&gt;
+
+&lt;h2 id=&quot;1-choose-your-distro&quot;&gt;1. Choose your distro&lt;/h2&gt;
+
+&lt;p&gt;Just like the unique and derived flavours of ice-creams, Linux has different distributions which have unique features and community.&lt;/p&gt;
+
+&lt;p&gt;Choose which distro you want to work with and stick to it for atleast 2-3 weeks.&lt;/p&gt;
+
+&lt;p&gt;The most popular linux distros are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ubuntu&lt;/li&gt;
+  &lt;li&gt;XUbuntu(xfce)&lt;/li&gt;
+  &lt;li&gt;KUbuntu(KDE Plasma)&lt;/li&gt;
+  &lt;li&gt;Linux Mint&lt;/li&gt;
+  &lt;li&gt;Elementory&lt;/li&gt;
+  &lt;li&gt;Arch Linux&lt;/li&gt;
+  &lt;li&gt;Manjaro
+…etc&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2-choose-your-desktop-environment&quot;&gt;2. Choose your desktop environment&lt;/h2&gt;
+
+&lt;p&gt;A desktop environment or DE is the part of the Operating System which handles the graphical user interfaces.&lt;/p&gt;
+
+&lt;p&gt;If you have worked in the field of Web Development, a DE is basically the front end libraries you use to create a GUI for the user.&lt;/p&gt;
+
+&lt;p&gt;Examples of DE:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;KDE&lt;/li&gt;
+  &lt;li&gt;xfce&lt;/li&gt;
+  &lt;li&gt;Gnome
+…etc&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;3-choose-a-window-manager&quot;&gt;3. Choose a window manager&lt;/h2&gt;
+
+&lt;p&gt;A widow managers job is to manage windows…well no shit sherlock.&lt;/p&gt;
+
+&lt;p&gt;In simple words a window manager handles how the user can interact with the windows and how teh windows get displayed on the screen.&lt;/p&gt;
+
+&lt;p&gt;Popular window managers:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;xfce-wm&lt;/li&gt;
+  &lt;li&gt;i3wm&lt;/li&gt;
+  &lt;li&gt;bspwm&lt;/li&gt;
+  &lt;li&gt;awesomewm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;4-choose-your-terminal-emulator&quot;&gt;4. Choose your terminal emulator&lt;/h2&gt;
+
+&lt;p&gt;Terminal emulators handle how the terminal looks and allows you to customize the look if you dont like the default one.&lt;/p&gt;
+
+&lt;p&gt;Popular terminal emulators:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;xfce4-terminal&lt;/li&gt;
+  &lt;li&gt;urxvt&lt;/li&gt;
+  &lt;li&gt;tmux
+…etc&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;5-status-bars&quot;&gt;5. Status Bars&lt;/h2&gt;
+
+&lt;p&gt;Status bars are like the task bar on Windows. It’s just like an applet that you can customize to your hearts content.&lt;/p&gt;
+
+&lt;p&gt;Popular status bars&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;polybar&lt;/li&gt;
+  &lt;li&gt;i3bar
+…etc&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;6-theming-icons-and-fonts&quot;&gt;6. Theming, Icons and Fonts&lt;/h2&gt;
+
+&lt;p&gt;Finding the best theme that suits your wallpaper can be quite tough. You can use &lt;code class=&quot;highlighter-rouge&quot;&gt;lxapperance&lt;/code&gt; to choose themes for your windows and mouse pointers.&lt;/p&gt;
+
+&lt;p&gt;Installing fonts is the most iritating job during ricing, however once you get it done once, the same process can be copied to other distros.&lt;/p&gt;
+
+&lt;p&gt;You can hop over &lt;a href=&quot;https://www.xfce-look.org/&quot;&gt;xfcelook.org&lt;/a&gt; to download some awesome themes.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Well that’s it, its that easy. I’ll explain every step in its own post and will post soon.&lt;/p&gt;
+
+&lt;p&gt;Until then, happy holidays and keep learning new stuff.&lt;/p&gt;</content><author><name>Zanark</name></author><category term="linux" /><category term="youtube" /><summary type="html">Yo ppl, guess the year is about to end and I havent uploaded a vid on my channel for a long time….nor have I posted nything on my blog here……kek.</summary></entry><entry><title type="html">A brief explanation of the Dark Side of the Internet</title><link href="https://zanark.github.io/Blog//Blog/2019/11/18/Darknet-TW-Speech.html" rel="alternate" type="text/html" title="A brief explanation of the Dark Side of the Internet" /><published>2019-11-18T00:00:00+00:00</published><updated>2019-11-18T00:00:00+00:00</updated><id>https://zanark.github.io/Blog//Blog/2019/11/18/Darknet-TW-Speech</id><content type="html" xml:base="https://zanark.github.io/Blog//Blog/2019/11/18/Darknet-TW-Speech.html">&lt;p&gt;&lt;em&gt;This is kind of a support material for my TW speech&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I’m sure by now everyone has heard about the Dark Web, commonly known as the epicenter of illegal and illicit online activity.&lt;/p&gt;
 
