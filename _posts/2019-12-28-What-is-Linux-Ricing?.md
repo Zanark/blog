@@ -15,7 +15,7 @@ So according to the favourite social hub of introverted virgin nerds(like me)...
 
 The term "ricing" was inheritted from the practice of customizing or modifying cars in Asia to make them look.....cool?
 
-![riced_car](../media/riced_car.jpg)
+![riced_car](https://raw.githubusercontent.com/Zanark/Blog/master/media/riced_car.jpg)
 
 Not being racist, the word is accepted by the majority of the community and is used sparingly to refer to a visually attractive desktop upgraded beyond the default.
 
