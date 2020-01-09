@@ -29,13 +29,13 @@ Just like the unique and derived flavours of ice-creams, Linux has different dis
 Choose which distro you want to work with and stick to it for atleast 2-3 weeks.
 
 The most popular linux distros are:
-- Ubuntu
-- XUbuntu(xfce)
-- KUbuntu(KDE Plasma)
-- Linux Mint
-- Elementory
-- Arch Linux
-- Manjaro
+* Ubuntu
+* XUbuntu(xfce)
+* KUbuntu(KDE Plasma)
+* Linux Mint
+* Elementory
+* Arch Linux
+* Manjaro
 ...etc
 
 ## 2. Choose your desktop environment

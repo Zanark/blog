@@ -150,7 +150,7 @@
     }
 
     &:before {
-      content: $icon-check;
+      content: $icon-circle;
       @include font-awesome-icon;
     }
   }
@@ -334,7 +334,7 @@ ul.related-posts {
     }
 
     &:before {
-      content: $icon-flask;
+      content: $icon-angle-right;
       @include font-awesome-icon;
     }
   }
