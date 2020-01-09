@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Federated Learning | Zanark’s Blog</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Federated Learning" />
+<meta name="author" content="Zanark" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Hey all! Happy New Year! 2020!!" />
+<meta property="og:description" content="Hey all! Happy New Year! 2020!!" />
+<link rel="canonical" href="https://zanark.github.io/Blog//Blog/2020/01/09/Federated-Learning.html" />
+<meta property="og:url" content="https://zanark.github.io/Blog//Blog/2020/01/09/Federated-Learning.html" />
+<meta property="og:site_name" content="Zanark’s Blog" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-01-09T00:00:00+00:00" />
+<script type="application/ld+json">
+{"description":"Hey all! Happy New Year! 2020!!","author":{"@type":"Person","name":"Zanark"},"@type":"BlogPosting","url":"https://zanark.github.io/Blog//Blog/2020/01/09/Federated-Learning.html","headline":"Federated Learning","dateModified":"2020-01-09T00:00:00+00:00","datePublished":"2020-01-09T00:00:00+00:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://zanark.github.io/Blog//Blog/2020/01/09/Federated-Learning.html"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/Blog/assets/css/style.css">
+  <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/Zanark/Blog/master/media/favicon.ico"/><link type="application/atom+xml" rel="alternate" href="https://zanark.github.io/Blog//Blog/feed.xml" title="Zanark's Blog" /><script defer src="https://use.fontawesome.com/releases/v5.8.1/js/all.js" integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ" crossorigin="anonymous"></script>
+</head>
+<body><div class="site-header">
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="/Blog/">Zanark&#39;s Blog<b class="command_prompt"></b><b class="blinking_cursor">_</b></a>
+    <span class="social_links">
+        <a class="color-red-hover" href="https://www.youtube.com/channel/UCwnUr0cB24YKbafp2wwQK2w"><i class="fab fa-youtube"></i></a><a class="color-purple-hover" href="https://github.com/Zanark"><i class="fab fa-github-square"></i></a>
+
+    </span>
+  </div>
+</div>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div class="author-box">
+
+<img src="https://avatars3.githubusercontent.com/u/32354314?s=460&v=4" class="author-avatar" />
+
+I am a noob programmer who likes to automate stuff.
+</div>
+
+<div class="post">
+  <h1 class="post-title">Federated Learning</h1>
+  
+  <div class="post-tags">
+      
+      <a class="tag" href="/tag/machine-learning/">machine-learning</a>
+      
+      <a class="tag" href="/tag/tutorial/">tutorial</a>
+      
+  </div>
+  
+  <div class="post-date">Published on 09 Jan 2020</div>
+  
+  <p>Hey all! Happy New Year! 2020!!</p>
+
+<p>So I’ve been working on my machine learning skills which are pretty much non existent, and now I have been assigned a new task by my mentor…which is to learn  how federated learning works. So I’m just gonna document what I learned here. Hope its informative ^_^</p>
+
+<h1 id="tensorflow-federated">Tensorflow Federated</h1>
+
+<h2 id="what-is-federated-learning">What is federated learning?</h2>
+
+<p>In federated learning the data is decentralised. This means that the data provided to the model is recieved from different sources simultaneously. For example getting data for a model form different mobile devices.</p>
+
+<h2 id="why-federated-learning">Why federated learning?</h2>
+
+<p>Conventionally, the machine learning model works on the server and data is provided to the server by different clients. However this has some limitations:</p>
+
+<ol>
+  <li>The server is online therefore poor internet will cause latency in getting results from the server, and such a case is not ideal for a model aiming for real-time results.</li>
+  <li>The application cannot work offline.</li>
+  <li>The network over which the data is sent is not secure enough therefore sensitive data can get leaked.</li>
+  <li>Sending and recieving data over a network is expensive for the battery and for the user as it’ll take up a lot of data.</li>
+</ol>
+
+<p>Well, what if the model is on the phone? This way teh model and the data is inside the moile phone.Well that has its own limitations as well:</p>
+
+<ol>
+  <li>There’s not enough data for the model.</li>
+  <li>Training and testing can use up a lot of battery.</li>
+</ol>
+
+<p>Eg: What if a new word gets introduced in the dictionary and everyone else is using it but the user, this way the user doesn’t have the data for that word locally and the model will never know about it, and therefore this feature will never get discovered by the user unless he gets to know about it from an external source.</p>
+
+<p>Well then, what if the model is pretrained a bit on the server using some proxy data, and then is sent to the clients for further training.</p>
+
+<p>This solution might sound optimal but we can never decide on the perfect proxy data that can be used to pretrain the model.</p>
+
+<p>So in essence federated learning is kind of like collaborative learning.</p>
+
+<p>Here the server send an initial model(which is not pretrained on any data) to all the clients. The clients then train and test the model on their own local data. When all the clients are done with trainig their models, their modified models is then pushed to the server which then takes an average of the modified model and send it back to the clients. So as you can see, we have a cycle here.</p>
+
+<h2 id="now-about-privacy">Now about Privacy..</h2>
+
+<p>One of the reasons why federated learning is so successfull is that it handles privacy really well.</p>
+
+<ul>
+  <li>The data never left the clients device =&gt; sensitive data was never shared over the network =&gt; secure</li>
+  <li>You can trust the servers.</li>
+  <li>Server cannot log any data from the clients.</li>
+  <li>Differential Privacy: Each client adds some noise to the data they provide to the server. With a large number of clients, the noise generated on the server-side creates a mask over the data it recieves which makes it difficult to point out individuality of the data still maintaing the progressibilty of the data.</li>
+</ul>
+
+
+</div>
+
+
+
+
+
+<div class="related">
+  <h2>related posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/Blog//2019/12/28/What-is-Linux-Ricing.html">
+            What is Linux Ricing
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/Blog//2019/11/18/Darknet-TW-Speech.html">
+            A brief explanation of the Dark Side of the Internet
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/Blog//2019/11/04/Nope-not-dead-yet.html">
+            Nope, not dead yet.
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+  
+  <h2>all tags</h2>
+  <div class="tag-cloud"><a href="/Blog/tag/darknet/" class="set-1">darknet</a> <a href="/Blog/tag/interview/" class="set-1">interview</a> <a href="/Blog/tag/journal/" class="set-1">journal</a> <a href="/Blog/tag/linux/" class="set-1">linux</a> <a href="/Blog/tag/machine-learning/" class="set-1">machine-learning</a> <a href="/Blog/tag/misc/" class="set-1">misc</a> <a href="/Blog/tag/motivation/" class="set-1">motivation</a> <a href="/Blog/tag/test/" class="set-1">test</a> <a href="/Blog/tag/tips/" class="set-5">tips</a> <a href="/Blog/tag/tutorial/" class="set-1">tutorial</a> <a href="/Blog/tag/youtube/" class="set-5">youtube</a></div>
+  
+
+
+
+      </div>
+    </main><footer class="site-footer">
+  <div class="wrapper">
+    <br><br>
+    <div class="credits"><a href="https://github.com/bitbrain/jekyll-dash">dash</a> theme for Jekyll by <a href="https://github.com/bitbrain">bitbrain</a> made with <i class="fas fa-heart"></i></div>
+  </div>
+</footer>
+<script>
+      window.FontAwesomeConfig = {
+        searchPseudoElements: true
+      }
+    </script>
+  </body>
+
+</html>

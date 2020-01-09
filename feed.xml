@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://zanark.github.io/Blog//Blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://zanark.github.io/Blog//Blog/" rel="alternate" type="text/html" /><updated>2020-01-09T14:33:31+00:00</updated><id>https://zanark.github.io/Blog//Blog/feed.xml</id><title type="html">Zanark’s Blog</title><subtitle>I am a noob programmer who likes to automate stuff.</subtitle><entry><title type="html">What is Linux Ricing</title><link href="https://zanark.github.io/Blog//Blog/2019/12/28/What-is-Linux-Ricing.html" rel="alternate" type="text/html" title="What is Linux Ricing" /><published>2019-12-28T00:00:00+00:00</published><updated>2019-12-28T00:00:00+00:00</updated><id>https://zanark.github.io/Blog//Blog/2019/12/28/What-is-Linux-Ricing</id><content type="html" xml:base="https://zanark.github.io/Blog//Blog/2019/12/28/What-is-Linux-Ricing.html">&lt;p&gt;Yo ppl, guess the year is about to end and I havent uploaded a vid on my channel for a long time….nor have I posted nything on my blog here……kek.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://zanark.github.io/Blog//Blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://zanark.github.io/Blog//Blog/" rel="alternate" type="text/html" /><updated>2020-01-09T15:23:02+00:00</updated><id>https://zanark.github.io/Blog//Blog/feed.xml</id><title type="html">Zanark’s Blog</title><subtitle>I am a noob programmer who likes to automate stuff.</subtitle><entry><title type="html">Federated Learning</title><link href="https://zanark.github.io/Blog//Blog/2020/01/09/Federated-Learning.html" rel="alternate" type="text/html" title="Federated Learning" /><published>2020-01-09T00:00:00+00:00</published><updated>2020-01-09T00:00:00+00:00</updated><id>https://zanark.github.io/Blog//Blog/2020/01/09/Federated-Learning</id><content type="html" xml:base="https://zanark.github.io/Blog//Blog/2020/01/09/Federated-Learning.html">&lt;p&gt;Hey all! Happy New Year! 2020!!&lt;/p&gt;
+
+&lt;p&gt;So I’ve been working on my machine learning skills which are pretty much non existent, and now I have been assigned a new task by my mentor…which is to learn  how federated learning works. So I’m just gonna document what I learned here. Hope its informative ^_^&lt;/p&gt;
+
+&lt;h1 id=&quot;tensorflow-federated&quot;&gt;Tensorflow Federated&lt;/h1&gt;
+
+&lt;h2 id=&quot;what-is-federated-learning&quot;&gt;What is federated learning?&lt;/h2&gt;
+
+&lt;p&gt;In federated learning the data is decentralised. This means that the data provided to the model is recieved from different sources simultaneously. For example getting data for a model form different mobile devices.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-federated-learning&quot;&gt;Why federated learning?&lt;/h2&gt;
+
+&lt;p&gt;Conventionally, the machine learning model works on the server and data is provided to the server by different clients. However this has some limitations:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The server is online therefore poor internet will cause latency in getting results from the server, and such a case is not ideal for a model aiming for real-time results.&lt;/li&gt;
+  &lt;li&gt;The application cannot work offline.&lt;/li&gt;
+  &lt;li&gt;The network over which the data is sent is not secure enough therefore sensitive data can get leaked.&lt;/li&gt;
+  &lt;li&gt;Sending and recieving data over a network is expensive for the battery and for the user as it’ll take up a lot of data.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Well, what if the model is on the phone? This way teh model and the data is inside the moile phone.Well that has its own limitations as well:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;There’s not enough data for the model.&lt;/li&gt;
+  &lt;li&gt;Training and testing can use up a lot of battery.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Eg: What if a new word gets introduced in the dictionary and everyone else is using it but the user, this way the user doesn’t have the data for that word locally and the model will never know about it, and therefore this feature will never get discovered by the user unless he gets to know about it from an external source.&lt;/p&gt;
+
+&lt;p&gt;Well then, what if the model is pretrained a bit on the server using some proxy data, and then is sent to the clients for further training.&lt;/p&gt;
+
+&lt;p&gt;This solution might sound optimal but we can never decide on the perfect proxy data that can be used to pretrain the model.&lt;/p&gt;
+
+&lt;p&gt;So in essence federated learning is kind of like collaborative learning.&lt;/p&gt;
+
+&lt;p&gt;Here the server send an initial model(which is not pretrained on any data) to all the clients. The clients then train and test the model on their own local data. When all the clients are done with trainig their models, their modified models is then pushed to the server which then takes an average of the modified model and send it back to the clients. So as you can see, we have a cycle here.&lt;/p&gt;
+
+&lt;h2 id=&quot;now-about-privacy&quot;&gt;Now about Privacy..&lt;/h2&gt;
+
+&lt;p&gt;One of the reasons why federated learning is so successfull is that it handles privacy really well.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The data never left the clients device =&amp;gt; sensitive data was never shared over the network =&amp;gt; secure&lt;/li&gt;
+  &lt;li&gt;You can trust the servers.&lt;/li&gt;
+  &lt;li&gt;Server cannot log any data from the clients.&lt;/li&gt;
+  &lt;li&gt;Differential Privacy: Each client adds some noise to the data they provide to the server. With a large number of clients, the noise generated on the server-side creates a mask over the data it recieves which makes it difficult to point out individuality of the data still maintaing the progressibilty of the data.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Zanark</name></author><category term="machine-learning" /><category term="tutorial" /><summary type="html">Hey all! Happy New Year! 2020!!</summary></entry><entry><title type="html">What is Linux Ricing</title><link href="https://zanark.github.io/Blog//Blog/2019/12/28/What-is-Linux-Ricing.html" rel="alternate" type="text/html" title="What is Linux Ricing" /><published>2019-12-28T00:00:00+00:00</published><updated>2019-12-28T00:00:00+00:00</updated><id>https://zanark.github.io/Blog//Blog/2019/12/28/What-is-Linux-Ricing</id><content type="html" xml:base="https://zanark.github.io/Blog//Blog/2019/12/28/What-is-Linux-Ricing.html">&lt;p&gt;Yo ppl, guess the year is about to end and I havent uploaded a vid on my channel for a long time….nor have I posted nything on my blog here……kek.&lt;/p&gt;
 
 &lt;p&gt;So I’ve been asked by a lot of people - What the fuck is ricing? How do I do it?..and stuff.&lt;/p&gt;
 
@@ -429,7 +476,7 @@ Now, I was just standing there with a locked jaw smiling like a goof.&lt;/p&gt;
 
 &lt;p&gt;I will soon upload another post where I’ll add some Interview and Resume tips that I picked up from places on the internet. Until then goodbye.&lt;/p&gt;
 
-&lt;p&gt;And yeah, &lt;strong&gt;KEEP LEARNING NEW STUFF!!&lt;/strong&gt;&lt;/p&gt;</content><author><name>Zanark</name></author><category term="tips" /><category term="interview" /><summary type="html">Hello everyone! Hope you all are fine and dandy.</summary></entry><entry><title type="html">Deployment test</title><link href="https://zanark.github.io/Blog//Blog/2019/06/30/Deployment-Test-Post.html" rel="alternate" type="text/html" title="Deployment test" /><published>2019-06-30T00:00:00+00:00</published><updated>2019-06-30T00:00:00+00:00</updated><id>https://zanark.github.io/Blog//Blog/2019/06/30/Deployment-Test-Post</id><content type="html" xml:base="https://zanark.github.io/Blog//Blog/2019/06/30/Deployment-Test-Post.html">&lt;p&gt;This is a test post.&lt;/p&gt;</content><author><name>Zanark</name></author><category term="test" /><summary type="html">This is a test post.</summary></entry><entry><title type="html">Hello World!</title><link href="https://zanark.github.io/Blog//Blog/2019/06/22/First-Post.html" rel="alternate" type="text/html" title="Hello World!" /><published>2019-06-22T00:00:00+00:00</published><updated>2019-06-22T00:00:00+00:00</updated><id>https://zanark.github.io/Blog//Blog/2019/06/22/First-Post</id><content type="html" xml:base="https://zanark.github.io/Blog//Blog/2019/06/22/First-Post.html">&lt;p&gt;This is the first post on this blog.&lt;/p&gt;
+&lt;p&gt;And yeah, &lt;strong&gt;KEEP LEARNING NEW STUFF!!&lt;/strong&gt;&lt;/p&gt;</content><author><name>Zanark</name></author><category term="tips" /><category term="interview" /><summary type="html">Hello everyone! Hope you all are fine and dandy.</summary></entry><entry><title type="html">Hello World!</title><link href="https://zanark.github.io/Blog//Blog/2019/06/22/First-Post.html" rel="alternate" type="text/html" title="Hello World!" /><published>2019-06-22T00:00:00+00:00</published><updated>2019-06-22T00:00:00+00:00</updated><id>https://zanark.github.io/Blog//Blog/2019/06/22/First-Post</id><content type="html" xml:base="https://zanark.github.io/Blog//Blog/2019/06/22/First-Post.html">&lt;p&gt;This is the first post on this blog.&lt;/p&gt;
 
 &lt;p&gt;I’m currently live streaming, hop in if you wanna see how much of an idiot i look like while programming lol.&lt;/p&gt;
 
