@@ -9,7 +9,7 @@ Hey all! Happy New Year! 2020!!
 
 So I've been working on my machine learning skills which are pretty much non existent, and now I have been assigned a new task by my mentor...which is to learn  how federated learning works. So I'm just gonna document what I learned here. Hope its informative ^_^
 
-# Tensorflow Federated
+# Federated Learning
 
 ## What is federated learning?
 
