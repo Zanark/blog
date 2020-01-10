@@ -45,8 +45,10 @@ Here the server send an initial model(which is not pretrained on any data) to al
 
 One of the reasons why federated learning is so successfull is that it handles privacy really well.
 
-- The data never left the clients device => sensitive data was never shared over the network => secure
-- You can trust the servers.
-- Server cannot log any data from the clients.
-- **Differential Privacy**: Each client adds some noise to the data they provide to the server. With a large number of clients, the noise generated on the server-side creates a mask over the data it recieves which makes it difficult to point out individuality of the data still maintaing the progressibilty of the data.
+-   The data never left the clients device => sensitive data was never shared over the network => secure
+-   You can trust the servers.
+-   Server cannot log any data from the clients.
+-   **Differential Privacy**: Each client adds some noise to the data they provide to the server. With a large number of clients, the noise generated on the       server-side creates a mask over the data it recieves which makes it difficult to point out individuality of the data still maintaing the progressibilty        of the data.
+
+
 
