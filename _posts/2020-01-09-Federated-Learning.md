@@ -48,5 +48,5 @@ One of the reasons why federated learning is so successfull is that it handles p
 - The data never left the clients device => sensitive data was never shared over the network => secure
 - You can trust the servers.
 - Server cannot log any data from the clients.
-- Differential Privacy: Each client adds some noise to the data they provide to the server. With a large number of clients, the noise generated on the server-side creates a mask over the data it recieves which makes it difficult to point out individuality of the data still maintaing the progressibilty of the data.
+- **Differential Privacy**: Each client adds some noise to the data they provide to the server. With a large number of clients, the noise generated on the server-side creates a mask over the data it recieves which makes it difficult to point out individuality of the data still maintaing the progressibilty of the data.
 
