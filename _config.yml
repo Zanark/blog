@@ -48,6 +48,9 @@ dash:
       - url: https://github.com/Zanark
         icon: github-square
         color: purple
+      - url: https://dev.to/zanark
+        icon: dev
+        color: white
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
