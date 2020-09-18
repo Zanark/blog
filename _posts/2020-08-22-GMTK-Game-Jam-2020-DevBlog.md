@@ -2,7 +2,7 @@
 layout: "post"
 title: "GMTK Game Jam 2020"
 author: "Zanark"
-tags: DevBlog VT-video-script
+tags: DevBlog YT-video-script
 ---
 
 # GMTK GameJam DevLog
