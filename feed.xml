@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://zanark.github.io/blog//blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://zanark.github.io/blog//blog/" rel="alternate" type="text/html" /><updated>2021-01-01T12:23:04+00:00</updated><id>https://zanark.github.io/blog//blog/feed.xml</id><title type="html">Zanark’s Blog</title><subtitle>I’m a back-end web developer who loves to contribute to open source, tinker with ML/AI and develop games in my free time.</subtitle><entry><title type="html">Book Review | THE 5AM CLUB</title><link href="https://zanark.github.io/blog//blog/2021/01/01/Book-Review-THE-5AM-CLUB.html" rel="alternate" type="text/html" title="Book Review | THE 5AM CLUB" /><published>2021-01-01T00:00:00+00:00</published><updated>2021-01-01T00:00:00+00:00</updated><id>https://zanark.github.io/blog//blog/2021/01/01/Book-Review-THE-5AM-CLUB</id><content type="html" xml:base="https://zanark.github.io/blog//blog/2021/01/01/Book-Review-THE-5AM-CLUB.html">&lt;h1 id=&quot;quick-catchup&quot;&gt;Quick Catchup&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://zanark.github.io/blog//blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://zanark.github.io/blog//blog/" rel="alternate" type="text/html" /><updated>2021-04-12T15:39:17+00:00</updated><id>https://zanark.github.io/blog//blog/feed.xml</id><title type="html">Zanark’s Blog</title><subtitle>I’m a back-end web developer who loves to contribute to open source, tinker with ML/AI and develop games in my free time.</subtitle><entry><title type="html">Motivation Level 0</title><link href="https://zanark.github.io/blog//blog/2021/04/12/Motivation-Level-0.html" rel="alternate" type="text/html" title="Motivation Level 0" /><published>2021-04-12T00:00:00+00:00</published><updated>2021-04-12T00:00:00+00:00</updated><id>https://zanark.github.io/blog//blog/2021/04/12/Motivation-Level-0</id><content type="html" xml:base="https://zanark.github.io/blog//blog/2021/04/12/Motivation-Level-0.html">&lt;h1 id=&quot;elephant-in-the-room&quot;&gt;Elephant in the room&lt;/h1&gt;
+
+&lt;p&gt;Yep, motivation to work on any projects has been at a very low level recently. Wanted to give it a -ve score if possible, but that would just mean motivation to do something bad and thats not whats happening so whaterver I guess.&lt;/p&gt;
+
+&lt;h1 id=&quot;countermeasures&quot;&gt;Countermeasures&lt;/h1&gt;
+
+&lt;p&gt;Now I’m planning to just be stuck at the library I guess. That would be the best way to counter the negative emotions that have been welling up inside of me.&lt;/p&gt;
+
+&lt;p&gt;I’m in the library at the moment, typing this from the library. Gonna be stuck here till dinner time I guess.&lt;/p&gt;
+
+&lt;p&gt;Wanted to add a pic of the library but not sure if I wanna take a pic when there are so many people around.&lt;/p&gt;
+
+&lt;p&gt;Well, this is just my first test post from the library to check the internet connectivity and everything.&lt;/p&gt;
+
+&lt;p&gt;:wq&lt;/p&gt;</content><author><name>Zanark</name></author><category term="journal" /><summary type="html">Elephant in the room</summary></entry><entry><title type="html">Book Review | THE 5AM CLUB</title><link href="https://zanark.github.io/blog//blog/2021/01/01/Book-Review-THE-5AM-CLUB.html" rel="alternate" type="text/html" title="Book Review | THE 5AM CLUB" /><published>2021-01-01T00:00:00+00:00</published><updated>2021-01-01T00:00:00+00:00</updated><id>https://zanark.github.io/blog//blog/2021/01/01/Book-Review-THE-5AM-CLUB</id><content type="html" xml:base="https://zanark.github.io/blog//blog/2021/01/01/Book-Review-THE-5AM-CLUB.html">&lt;h1 id=&quot;quick-catchup&quot;&gt;Quick Catchup&lt;/h1&gt;
 
 &lt;p&gt;Hi everyone! I wish everyone a Happy New Year! :D&lt;/p&gt;
 
@@ -432,14 +446,4 @@ When you hang out with people who have achieved something in their lives or are 
 
 &lt;p&gt;The video that inspired me to write this Blog Post: &lt;a href=&quot;https://youtu.be/zUr9n0Hy3PA&quot;&gt;YouTube Video&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;So goodbye ppl, and keep learning new stuff.&lt;/p&gt;</content><author><name>Zanark</name></author><category term="tips" /><category term="motivation" /><summary type="html">It doesn’t matter how successful you are or how hard-working you are or how easily you can get motivated to do something, eventually you’ll reach a point in your life where you’ll start loosing interest in everything. You’ll start feeling comfortable with not challenging yourself anymore. You won’t be able to get inspired and motivated from any new challenges. You won’t be able to bring up the desire to take an action.</summary></entry><entry><title type="html">My C# and .NET journal</title><link href="https://zanark.github.io/blog//blog/2019/07/10/My-C-and-.NET-Journal.html" rel="alternate" type="text/html" title="My C# and .NET journal" /><published>2019-07-10T00:00:00+00:00</published><updated>2019-07-10T00:00:00+00:00</updated><id>https://zanark.github.io/blog//blog/2019/07/10/My-C#-and-.NET-Journal</id><content type="html" xml:base="https://zanark.github.io/blog//blog/2019/07/10/My-C-and-.NET-Journal.html">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Zanark/Blog/master/media/CNET%20Thumb.png&quot; alt=&quot;C# .NET Tutorial series Thumbail&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So I’ve started a new series on my YouTube channel - C# and .NET Tutorial Series.&lt;/p&gt;
-
-&lt;p&gt;Its kind of like a video journal that keeps track of my progress.&lt;/p&gt;
-
-&lt;p&gt;The link to the &lt;a href=&quot;https://youtu.be/uLdNytpAIcI&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I’m going to upload all the code to this &lt;a href=&quot;https://github.com/Zanark/L-NET/&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I’ll try my best to upload 1 video every 2 days, I hope I’ll be able to actually do that.&lt;/p&gt;</content><author><name>Zanark</name></author><category term="youtube" /><category term="journal" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;So goodbye ppl, and keep learning new stuff.&lt;/p&gt;</content><author><name>Zanark</name></author><category term="tips" /><category term="motivation" /><summary type="html">It doesn’t matter how successful you are or how hard-working you are or how easily you can get motivated to do something, eventually you’ll reach a point in your life where you’ll start loosing interest in everything. You’ll start feeling comfortable with not challenging yourself anymore. You won’t be able to get inspired and motivated from any new challenges. You won’t be able to bring up the desire to take an action.</summary></entry></feed>
